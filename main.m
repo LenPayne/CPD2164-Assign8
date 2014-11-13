@@ -13,6 +13,7 @@
  * - Hillegass & Ward - pg. 135
  */
 #import <Foundation/Foundation.h>
+#import "StockHolding.h"
 
 int main (int argc, char* argv[]) {
 	NSAutoreleasePool* pool = [[NSAutoreleasePool alloc] init];
